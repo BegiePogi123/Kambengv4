@@ -18,7 +18,7 @@
   },
   "adminBot": [
     "100073391994278",
-    "100073391994278"
+    ""
   ],
   "whiteListMode": {
     "enable": false,
@@ -28,9 +28,9 @@
   "OWNER": "Begie",
   "AGE": "15",
   "GENDER": "MALE",
-  "nickNameBot": "義 Begie | 🌊 勇",
+  "nickNameBot": "義 Begie ",
   "FACEBOOK": "https://www.facebook.com/Cahaponon",
-  "prefix": "/",
+  "prefix": " * ",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
